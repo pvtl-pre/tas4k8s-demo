@@ -6,6 +6,7 @@
 - [Tanzu Network Account](https://network.pivotal.io/)
 - Container Registry
 - kubectl
+- BOSH CLI
 
 ### Optional
 
